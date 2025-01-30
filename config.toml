@@ -2,7 +2,7 @@
 baseurl = "/"
 title = "TGPWU"
 # paginate = "10" # Number of posts per page
-theme = "hugo-dpsg"
+theme = "dpsg"
 # Change/remove themesDir, the current location is for deploying the demo page only
 # themesDir = "../.."
 # Language settings
