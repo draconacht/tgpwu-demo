@@ -9,7 +9,7 @@ pager: true
 
 The operation of delivery and logistics platforms during the lockdown led to wide-scale harassment of workers by law enforcement. Read the press release here   
 
-{{<x_simple user="TGPWU" id="1396107215971307521">}}
+{{<x user="TGPWU" id="1396107215971307521">}}
 
 and the full letter to the Government of Telangana below.
 
