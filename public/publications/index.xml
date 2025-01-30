@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on TGPWU</title>
+    <link>//localhost:1313/publications/</link>
+    <description>Recent content in Publications on TGPWU</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 17 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Impact of Extreme Heat on Gig Workers - A Survey Report</title>
+      <link>//localhost:1313/publications/extreme_heat/</link>
+      <pubDate>Sat, 17 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publications/extreme_heat/</guid>
+      <description>&lt;p&gt;The climate crisis is driving frequent and intense heat waves everywhere resulting in a rise in heat-related illnesses and deaths. In India, over 11,868 heatstroke deaths were reported from 2012 to 2022, though the true number is likely higher. HeatWatch and Telangana Gig and Platform Workers Union (TGPWU) conducted a survey in June 2024 to collect data on the implications of extreme heat waves on the working lives of gig and platform workers in Hyderabad, Telangana.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
