@@ -51,7 +51,7 @@ DefaultContentLanguage = "en"
   list = "right"  # Configure layout for list pages
   single = false # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["search", "recent", "categories", "taglist", "twitter_feed", "social", "languages"] # alternatively "ddg-search" can be used, to search via DuckDuckGo
+  widgets = ["search", "recent", "twitter_feed", "social", "languages"] # alternatively "ddg-search" can be used, to search via DuckDuckGo
   # widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
 
 [Params.widgets]
@@ -75,9 +75,9 @@ DefaultContentLanguage = "en"
   unsafe= true
 
 # Custom menu items, normally controlled via front matter in /content files
-#[menu]
-#  [[menu.main]]
-#    identifier = "login"
-#    name = "External Login"
-#    url = "https://example.com/login"
-#    weight = 99
+[menu]
+  [[menu.main]]
+    identifier = "press_releases"
+    name = "Press Releases"
+    url = "/categories/press-releases"
+    weight = 99

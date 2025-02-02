@@ -10,5 +10,3 @@ pager: false # Enable pager navigation (prev/next) for specific page
 toc: false # Enable Table of Contents for specific page
 sitemap_hide: false # Do not add this page to the sitemap
 ---
-
----

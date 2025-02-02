@@ -1,12 +1,13 @@
 ---
 title: Impact of Extreme Heat on Gig Workers - A Survey Report
-description: Example test article that contains basic HTML elements for text formatting on the Web.
 date: 2024-08-17
 authorbox: false
 toc: false
 ---
 
 The climate crisis is driving frequent and intense heat waves everywhere resulting in a rise in heat-related illnesses and deaths. In India, over 11,868 heatstroke deaths were reported from 2012 to 2022, though the true number is likely higher. HeatWatch and Telangana Gig and Platform Workers Union (TGPWU) conducted a survey in June 2024 to collect data on the implications of extreme heat waves on the working lives of gig and platform workers in Hyderabad, Telangana. 
+
+<!--more-->
 
 Our report finds that many gig and platform workers face heat exhaustion and heat strokes impacting their health, productivity, and livelihoods. Around 52% of the surveyed workers reported experiencing heat exhaustion as a result of working in extreme heat, followed by 30% of workers who reported experiencing a heat stroke. Among the 19 women workers surveyed, 13 reported that working in extreme heat made menstrual cramps and related symptoms worse. 4 women workers also reported that they experienced increased Urinary Tract Infections (UTIs) while working in extreme heat. 
 

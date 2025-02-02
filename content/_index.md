@@ -3,3 +3,5 @@ The Telangana Gig and Platforms Workers Union (TGPWU) is an independent, worker-
 We have no association with any app-based platform companies.
 
 __Join us to build worker power. Together we stand, together we fight.__
+
+![image](mainpage.png)
