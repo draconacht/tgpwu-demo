@@ -1,0 +1,75 @@
+backend:
+  name: github
+  repo: draconacht/tgpwu-demo
+  branch: main
+collections:
+  - label: Other Pages
+    name: pages
+    files:
+      - label: "Home"
+        name: "home"
+        file: "content/_index.md"
+        fields:
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "About Us"
+        name: "about"
+        file: "content/about_us/index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Contact Us"
+        name: "contact"
+        file: "content/contact_us/_index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "In the News"
+        name: "news"
+        file: "content/in_the_news/_index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Work With Us"
+        name: "work_with_us"
+        file: "content/work_with_us/_index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+  - label: Campaigns
+    name: campaigns
+    folder: content/campaigns
+    create: true
+    slug: '{{year}}/{{slug}}'
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Categories", name: "categories", required: false, widget: "list", field: { label: "Category", name: "category", widget: "string" }}
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tweet", name: "tweet", widget: "string", required: false }
+  - label: Publications
+    name: publications
+    folder: content/publications
+    slug: '{{year}}/{{slug}}'
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Thumbnail", name: "thumbnail", widget: "image", required: false }
+      - { label: "Categories", name: "categories", required: false, widget: "list", field: { label: "Category", name: "category", widget: "string" }}
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Publication", name: "publication", widget: "file", required: false }
+  - label: Updates
+    name: updates
+    folder: content/updates
+    slug: '{{year}}/{{slug}}'
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Thumbnail", name: "thumbnail", widget: "image", required: false }
+      - { label: "Categories", name: "categories", required: false, widget: "list", field: { label: "Category", name: "category", widget: "string" }}
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Publication", name: "publication", widget: "file", required: false }
+
+media_folder: static/img/uploads
+public_folder: /img/uploads

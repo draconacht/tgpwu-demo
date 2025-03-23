@@ -1,12 +1,11 @@
 ---
 title: TGPWU calls for special subsidy on commercial Electric Vehicles
 date: 2024-12-28
+thumbnail: /img/uploads/ev.jpeg
 authorbox: false
 toc: false
-thumbnail: "updates/2024/ev_subsidy/ev.jpeg"
 thumbnail_hide_post: false
 ---
-
 The Telangana Gig and Platform Workers’ Union (TGPWU) appreciates the Telangana Government for issuing G.O. Ms. No. 41 dated 16.11.2024, exempting Road Tax and Registration Fees for Electric Vehicles (EVs) purchased and registered in Telangana until 31.12.2026. This is a commendable step towards promoting sustainable and eco-friendly transportation in the state.
 
 <!--more-->

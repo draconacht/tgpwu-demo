@@ -1,12 +1,12 @@
 ---
 title: TGPWU condemns discrimination and harassment of delivery workers over costume choice
 date: 2024-12-26
+thumbnail: /img/uploads/thumbnail.png
 authorbox: false
 toc: false
-thumbnail: "updates/2024/costume/thumbnail.png"
-categories: ["Press Releases"]
+categories:
+  - Press Releases
 ---
-
 The Telangana Gig and Platform Workers’ Union (TGPWU) expresses deep concern over the recent incident in Indore, where a Zomato delivery worker was harassed and forced to remove his Santa Claus costume by an individual who questioned its cultural and religious significance.
 
 <!--more-->

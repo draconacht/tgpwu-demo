@@ -1,12 +1,13 @@
 ---
 title: TGPWU firmly opposes deactivation of workers’ IDs
 date: 2024-12-19
+thumbnail: /img/uploads/thumbnail.jpg
+categories:
+  - Press Releases
+publication: /img/uploads/press_note.pdf
 authorbox: false
 toc: false
-thumbnail: "updates/2024/worker_id_deactivation/thumbnail.jpg"
-categories: ["Press Releases"]
 ---
-
 Members of the Telangana Gig and Platform Workers’ Union (TGPWU), volunteers and saathis resolved to fight against deactivation of workers’ IDs and other unfair practices of platform companies. This resolution was passed at a memorial meeting held in memory of Chandrika, an Urban Company worker who passed away on November 15, 2024, allegedly due to stress-induced health complications. <!--more--> The meeting honoured Chandrika as a fearless comrade and TGPWU’s women’s wing leader who fought relentlessly for herself and all other Urban Company workers whose IDs had been arbitrarily blocked by the platform. Her determination to not step down despite harassment by the platform and by the police is an inspiration not just to other Urban Company workers but also to all those workers fighting against exploitation and algorithmic control in India’s gig and platform economy. TGPWU stands steadfast in its commitment to advance Chandrika’s struggle and to ensure justice for all our fellow workers who are crushed by dehumanising practices of platform companies. Chandrika is survived by a young college-going son, and TGPWU will also set up a fundraiser to support his educational pursuits. We call upon all other unions and workers’ federations, researchers, lawyers, activists, journalists, and writers to stand by us and extend their support to us in this struggle.
 
 Shaik Salauddin
@@ -20,7 +21,4 @@ TGPWU
 
 షేక్  సలావుద్దీన్ 
 
-సంస్థాపక – అధ్యక్షులు 
-
-
-{{<pdf url="press_note.pdf" >}}
+సంస్థాపక – అధ్యక్షులు
