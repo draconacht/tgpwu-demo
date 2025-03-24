@@ -1,7 +1,8 @@
 backend:
   name: github
   repo: draconacht/tgpwu-demo
-  branch: main
+  branch: stage
+  base_url: https://sveltia-cms-auth.draconacht.workers.dev/
 collections:
   - label: Other Pages
     name: pages
